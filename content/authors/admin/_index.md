@@ -29,12 +29,16 @@ interests:
 
 # Education to show in About widget
 education:
-    - PhD, Brain Behaviour and Cognitive Sciences (in progress)
-      York University, 2025
-    - MA, Brain Behaviour and Cognitive Sciences 
-      York University, 2019
-    - BSc, Specialized Honours, Psychology Neuroscience and Behaviour 
-      McMaster University, 2017
+  courses:
+  - course: PhD, Brain Behaviour and Cognitive Sciences
+    institution: York University
+    year: in progress
+  - course: MA, Brain Behaviour and Cognitive Sciences
+    institution: York University
+    year: 2021
+  - course: BSc, Honours, Psychology Neuroscience and Behaviour
+    institution: McMaster University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -59,19 +63,17 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/tasfia-ahsan-700640141/
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'ahsant@my.yorku.ca'
+email: ' '
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I'm a PhD student at York University's Brain Behaviour and Cognitive Sciences program in the Department of Psychology. I'm interested in Human Vision, particularly how people perceive things in depth. I'm also passionate about teaching and knowledge dissemination such as creating simple and accessible material online to do this.
+I'm a PhD student at York University's [Brain Behaviour and Cognitive Sciences](https://www.yorku.ca/gradstudies/psychology/areas-of-specialization/brain-behaviour-and-cognitive-sciences/) program in the Department of Psychology. I'm interested in Human Vision, particularly how people perceive things in depth. I'm also passionate about teaching and knowledge dissemination such as creating simple and accessible material online to do this.
