@@ -74,7 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-I'm a PhD student in the 
+I'm a PhD student at York University's Brain Behaviour and Cognitive Sciences program in the Department of Psychology. I'm interested in Human Vision, particularly how people perceive things in depth. I'm also passionate about teaching and knowledge dissemination such as creating simple and accessible material online to do this.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
