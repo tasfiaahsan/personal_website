@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description:
-  icon: python
+  icon: earth-americas
   icon_pack: fab
   name: PsychoPy
 
