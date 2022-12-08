@@ -22,18 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Research Scientist
-    company: Freud Lab, York University
-    company_url: 'https://www.yorku.ca/health/lab/freud/'
-    company_logo: freud_lab
-    location: Toronto, ON
-    date_start: '2019-09-01'
-    date_end: ''
-    #description: |2-
-     # Responsibilities include:
-     # * Analysing
-     # * Modelling
-     # * Deploying
+- title: Graduate Research Scientist
+company: Freud Lab, York University
+company_url: 'https://www.yorku.ca/health/lab/freud/'
+company_logo: freud_lab
+location: Toronto, ON
+date_start: '2019-09-01'
+date_end: ''
+#description: |2-
+# Responsibilities include:
+# * Experiment Design and Execution 
+# * Statistical Analysis 
+# * Knowledge Dissemination
      
   - title: Undergraduate Researcher
     company: Eating Disorder Clinic, St. Joseph's Healthcare Hamilton
