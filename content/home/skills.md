@@ -10,11 +10,19 @@ feature:
   icon_pack: fab
   name: R/Studio
 - description: null
+  icon: python
+  icon_pack: fab
+  name: PsychoPy  
+- description: null
   icon: chart-bar
   icon_pack: fas
   name: Statistics
 - description: null
   icon: earth-americas
   icon_pack: fas
-  name: PsychoPy
+  name: Online Experiment
+- description: null
+  icon: pen-paintbrush
+  icon_pack: fas
+  name: Design
 ---
