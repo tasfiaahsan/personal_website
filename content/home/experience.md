@@ -31,9 +31,9 @@ experience:
     date_end: ''
     #description: |2-
      # Responsibilities include:
-     # * Experiment Design and Execution 
-     # * Statistical Analysis 
-     # * Knowledge Dissemination
+     # * Experimentation
+     # * Analysis 
+     # * Dissemination
         
 design:
   columns: '2'
