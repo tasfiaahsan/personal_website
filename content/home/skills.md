@@ -22,11 +22,11 @@ feature:
   icon_pack: fas
   name: Online Experiment
 - description: null
-  icon: pen-paintbrush
-  icon_pack: fab
+  icon: pen-nib
+  icon_pack: fas
   name: Design
 - description: null
   icon: chalkboard-user
-  icon_pack: fab
+  icon_pack: fas
   name: Teaching
 ---
