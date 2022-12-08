@@ -31,9 +31,9 @@ experience:
     date_end: ''
     #description: |2-
      # Responsibilities include:
-     # * Experiment Design and Execution 
-     # * Statistical Analysis 
-     # * Knowledge Dissemination
+     # * Analysing
+     # * Modelling
+     # * Deploying
      
   - title: Undergraduate Researcher
     company: Eating Disorder Clinic, St. Joseph's Healthcare Hamilton
