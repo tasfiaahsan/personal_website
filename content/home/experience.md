@@ -30,10 +30,10 @@ location: Toronto, ON
 date_start: '2019-09-01'
 date_end: ''
 description: |2-
- Responsibilities include:
- * Experiment Design and Execution 
- * Statistical Analysis 
- * Knowledge Dissemination
+Responsibilities include:
+* Experiment Design and Execution 
+* Statistical Analysis 
+* Knowledge Dissemination
 
 - title: Undergraduate Researcher
 company: Eating Disorder Clinic, St. Joseph's Healthcare Hamilton
