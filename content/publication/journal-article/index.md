@@ -1,8 +1,10 @@
 ---
-title: "An example journal article"
+title: "Perceived depth modulates perceptual resolution"
 authors:
 - admin
-- Robert Ford
+- Kathryn Bolton
+- Laurie M. Wilcox
+- Erez Freud
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -10,7 +12,7 @@ date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-09-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +21,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Psychonomic Bulletin and Review, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Humans constantly use depth information to support perceptual decisions about object size and location in space, as well as planning and executing actions. It was recently reported that perceived depth modulates perceptual performance even when depth information is not relevant to the task, with faster shape discrimination for objects perceived as being close to the observer. However, it is yet to be determined if the observed “close advantage” reflects differences in psychophysical sensitivity or response bias. Moreover, it is unclear whether this advantage is generalizable to other viewing situations and tasks. To address these outstanding issues, we evaluated whether visual resolution is modulated by perceived depth defined by 2D pictorial cues. In a series of experiments, we used the method of constant stimuli to measure the precision of perceptual judgements for stimuli positioned at close, far, and flat perceived distances. In Experiment 1, we found that size discrimination was more precise when the object was perceived to be closer to the observers. Experiments 2a and 2b extended this finding to a visual property orthogonal to depth information, by showing superior orientation discrimination for “close” objects. Finally, Experiment 3 demonstrated that the close advantage also occurs when performing high-level perceptual tasks such as face perception. Taken together, our results provide novel evidence that the perceived depth of an object, as defined by pictorial cues, modulates the precision of visual processing for close objects.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In the real world, objects appear at different distances relative to our body. In this paper, we provide novel evidence that objects that are perceived to be closer to us are processed more quickly and accurately than those that appear farther away. This unique processing benefit is called the "close advantage effect" and is demonstrated using four different psychophysical experiments. 
 
 tags:
 - Source Themes
@@ -34,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://link.springer.com/article/10.3758/s13423-021-02006-8
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
@@ -44,7 +46,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `close.jpg/png` to your page's folder. 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
@@ -62,7 +64,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
