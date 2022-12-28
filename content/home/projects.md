@@ -27,8 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Online Experimentation
+      tag: Tutorials
     - name: Other
       tag: Demo
 
