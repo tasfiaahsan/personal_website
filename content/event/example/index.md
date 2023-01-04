@@ -1,5 +1,5 @@
 ---
-title: 'Creating Online Experiments'
+title: 'Building Psychological Experiments'
 
 event: Professional Workshop
 event_url: https://tasfiaahsan.github.io/Creating-Online-Experiments-with-PsychoPy/
