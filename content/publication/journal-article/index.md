@@ -5,10 +5,10 @@ authors:
 - Kathryn Bolton
 - Laurie M. Wilcox
 - Erez Freud
-date: "2022-12-28T00:00:00Z"
+date: "2022-12-28"
 author_notes: null
 doi: null
-publishDate: "2022-12-28T00:00:00Z"
+publishDate: "2022-12-28"
 publication_types: '2'
 publication: Psychonomic Bulletin and Review (PBR)https://www.springer.com/journal/13423
 publication_short: PBR
