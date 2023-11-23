@@ -24,13 +24,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: https://www.coursera.org
-    date_end: ''
     date_start: '2021-01-25'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Foundations of User Experience (UX) Design
-    url: ''
+    title: Foundations of User Experience (UX) Desig
 
 design:
   columns: '2'

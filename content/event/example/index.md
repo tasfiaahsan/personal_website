@@ -14,12 +14,12 @@ address:
 
 summary: This workshop introduces researchers to creating their very first online experiment using Psychopy.
 
-abstract: In this workshop, you will learn how to create a basic version of the Posner expeirment to run in a lab-based environment or online using PsychoPy. PsychoPy is an open-source applicaiton that allows you to run a wide range of neurosciecne, psychology and pyschophysics experiments. This workshop is designed to give a broad overview of using PsychoPy, aimed at being useful for beginners but also provide tips for those that are more familiar.
+abstract: In this workshop, you will learn how to create a basic version of the Posner experiment to run (in-lab or remotely) using PsychoPy. PsychoPy is an open-source applicaiton that allows you to run a wide range of neurosciecne, psychology and pyschophysics experiments. This workshop is designed to give a broad overview of using PsychoPy, aimed at being useful for beginners but also provide tips for those that are more familiar.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-10-03T00:00:00Z"
-date_end: "2022-10-03T00:00:00Z"
+date: "2022-10-03"
+# date_end: "2022-10-03T00:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -59,11 +59,3 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
-Slides can be added in a few ways:
-
--   **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
--   **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
--   **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
